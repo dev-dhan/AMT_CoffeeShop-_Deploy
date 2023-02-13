@@ -1,2 +1,2 @@
-# AMT_CoffeeShop-_Deploy
-AMT_CoffeeShop _Deploy Deploy Test
+# AMT_CoffeeShop
+This is test deploy for theme 1/ Coffee Shop 
