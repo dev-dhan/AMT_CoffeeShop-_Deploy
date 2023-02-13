@@ -164,7 +164,7 @@ color: var(--secondary-color);
 
 .image-con {
     width: 50%;
-    background-image: url("../Images/welcome-header.jpg");
+    background-image: url("../images/welcome-header.jpg");
     position: relative;
     background-size: cover;
     display: flex;
@@ -313,7 +313,7 @@ color: var(--secondary-color);
 }
 
 .product-desc-con {
-    background-image: url("../Images/Product-Background.jpg");
+    background-image: url("../images/Product-Background.jpg");
     width: 100%;
     background-size: cover;
     display: flex;
@@ -505,7 +505,7 @@ a:link {
 
 .store-img {
     width: 60%;
-    background-image: url("../Images/visit-us-img.jpg");
+    background-image: url("../images/visit-us-img.jpg");
     background-size: cover;
     height: 700px;
     border-radius: 150px 0px 0px 150px;
@@ -554,7 +554,7 @@ a:link {
 .email-us-image-con {
     width: 40%;
     height: auto;
-    background-image: url("../Images/email-us-img.jpg");
+    background-image: url("../images/email-us-img.jpg");
     background-size: cover;
     padding: 30px;
     border-radius: 18px 0px 0px 18px;
